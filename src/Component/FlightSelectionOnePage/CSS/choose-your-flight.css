@@ -1,0 +1,26 @@
+.flight-information {
+    text-align: left;
+    padding: 15px, 57.37px, 14.31px, 20.22px;
+    width: Hug (1,064.37px);
+    height: Fixed (650px);
+    top: 5143px;
+    left: -253px;
+    gap: 64px;
+
+
+  }
+  
+  .flight-information p {
+    color:#001F3F;
+    margin-bottom: 10px;
+    width: 1064.37px;   
+    height: 53.31px;
+    
+  }
+  
+  .flight-information p:not(:last-child) {
+    border-bottom: 1px solid #ccc; /* horizontal line */
+    padding-bottom: 10px;
+  }
+  
+  
